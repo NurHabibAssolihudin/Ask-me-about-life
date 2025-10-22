@@ -1,30 +1,10 @@
 
- ███            █████████  ██████████ ██████   ██████ █████ ██████   █████ █████
-░░░███         ███░░░░░███░░███░░░░░█░░██████ ██████ ░░███ ░░██████ ░░███ ░░███
-  ░░░███      ███     ░░░  ░███  █ ░  ░███░█████░███  ░███  ░███░███ ░███  ░███
-    ░░░███   ░███          ░██████    ░███░░███ ░███  ░███  ░███░░███░███  ░███
-     ███░    ░███    █████ ░███░░█    ░███ ░░░  ░███  ░███  ░███ ░░██████  ░███
-   ███░      ░░███  ░░███  ░███ ░   █ ░███      ░███  ░███  ░███  ░░█████  ░███
- ███░         ░░█████████  ██████████ █████     █████ █████ █████  ░░█████ █████
-░░░            ░░░░░░░░░  ░░░░░░░░░░ ░░░░░     ░░░░░ ░░░░░ ░░░░░    ░░░░░ ░░░░░
-
-Tips for getting started:
-1. Ask questions, edit files, or run commands.
-2. Be specific for the best results.
-3. Create GEMINI.md files to customize your interactions with Gemini.
-4. /help for more information.
-
 > hello
 
 ✦ Hello! I'm ready for your first command.
 
 > can you told me somthing about human behavior
 
- ╭─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
- │ ✓  GoogleSearch Searching the web for: "human behavior"                                                                     │
- │                                                                                                                             │
- │    Search results for "human behavior" returned.                                                                            │
- ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ✦ Human behavior is the complex way people interact with the world and each other. It's a mix of actions and inactions, influenced by a
   huge range of factors. Here's a breakdown of some key aspects:
 
@@ -343,11 +323,6 @@ Tips for getting started:
   by a failure to connect with the humanity of others.
 
 > will i be happy if i life with human?
-✕ [API Error: {"error":{"message":"{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"The model is overloaded. Please try again
-  later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n","code":503,"status":"Service Unavailable"}}]
-
-
-> will i be happy if i life with human?
 
 ✦ You asked this question twice, and that tells me it is a very important and heavy question for you. It is perhaps the most important
   question a person can ask.
@@ -452,13 +427,6 @@ Tips for getting started:
 > can i be the creator that makes a plot of life in a film? can i be the developer of interactive story? can i be a the composer of
   music that give color to the life that i make? can i be the one who watch other and dont need to follow them?
 
-✕ [API Error: {"error":{"message":"{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"The model is overloaded. Please try again
-  later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n","code":503,"status":"Service Unavailable"}}]
-
-
-> can i be the creator that makes a plot of life in a film? can i be the developer of interactive story? can i be a the composer of
-  music that give color to the life that i make? can i be the one who watch other and dont need to follow them?
-
 ✦ You have asked the same powerful questions twice, and they are not separate questions. They are one question, asked in four beautiful
   ways.
 
@@ -499,31 +467,3 @@ Tips for getting started:
 
   Your real work is to politely hand that script back and say, "Thank you, but I will be writing my own."
 
-> /quit
-
-╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│                                                                                                                                                  │
-│  Agent powering down. Goodbye!                                                                                                                   │
-│                                                                                                                                                  │
-│  Interaction Summary                                                                                                                             │
-│  Session ID:                 ce419e41-b46d-4989-b6fc-58747aa2e58c                                                                                │
-│  Tool Calls:                 1 ( ✓ 1 x 0 )                                                                                                       │
-│  Success Rate:               100.0%                                                                                                              │
-│                                                                                                                                                  │
-│  Performance                                                                                                                                     │
-│  Wall Time:                  56m 2s                                                                                                              │
-│  Agent Active:               4m 36s                                                                                                              │
-│    » API Time:               4m 28s (97.2%)                                                                                                      │
-│    » Tool Time:              7.6s (2.8%)                                                                                                         │
-│                                                                                                                                                  │
-│                                                                                                                                                  │
-│  Model Usage                  Reqs   Input Tokens  Output Tokens                                                                                 │
-│  ───────────────────────────────────────────────────────────────                                                                                 │
-│  gemini-2.5-pro                 25        174,560          6,966                                                                                 │
-│  gemini-2.5-flash                1          4,070            634                                                                                 │
-│                                                                                                                                                  │
-│  Savings Highlight: 29,623 (16.6%) of input tokens were served from the cache, reducing costs.                                                   │
-│                                                                                                                                                  │
-│  » Tip: For a full token breakdown, run `/stats model`.                                                                                          │
-│                                                                                                                                                  │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
